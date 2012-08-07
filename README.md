@@ -5,6 +5,6 @@ Ruby rackで作成したサンプルプログラムです
 
 サンプルの使い方
 ------
-http://kakakikikeke.blogspot.com/2012/08/rubyrack.html
-に記載してあります
-基本的にはcloneをしてきてrackupで終了です
+http://kakakikikeke.blogspot.com/2012/08/rubyrack.html  
+に記載してあります  
+基本的にはcloneをしてきてrackupで終了です  
